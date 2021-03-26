@@ -41,7 +41,6 @@ ul li{
     margin-left: 10px;
 }
 .apresentacao{
-    /*text-align: center;*/
     background-image: url("team.png");
     background-size: cover;
     background-repeat: no-repeat;
@@ -106,9 +105,6 @@ ul li{
 }
 .visaotxt{
     float: right;
-}
-.valorestxt{
-    
 }
 .footer{
     color: white;
