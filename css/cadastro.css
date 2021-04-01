@@ -1,0 +1,22 @@
+
+body{
+    background-color: #ecf0f1;
+}
+.pag-cadastro{
+    min-height: 740px;
+}
+.caixa h1{
+    margin: 50px auto;
+}
+.box-cadastro{
+    float: left;
+    width: 51%;
+}
+.input-padrao-cadastro{
+    width: 75%;
+    margin-bottom: 20px;
+    padding: 7px 23px;
+}
+.box-img{
+    float: right;
+}
